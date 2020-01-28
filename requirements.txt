@@ -11,6 +11,6 @@ paramiko==2.0.1
 pyasn1==0.1.9
 pycparser==2.14
 pycrypto==2.6.1
-PyYAML==3.11
+PyYAML==5.1
 six==1.10.0
 virtualenv==15.0.2
